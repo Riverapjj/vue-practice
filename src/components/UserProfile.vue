@@ -89,5 +89,6 @@ h1 {
     margin-right: auto;
     padding: 0 10px;
     font-weight: bold;
-}
+}  
+
 </style>
